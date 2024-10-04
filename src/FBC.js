@@ -11,6 +11,7 @@ export default function FBC(props) {
          Only legacy systems uses the ClassBasedComponents
          <p>Hi</p>
          <p>Heloo from version1</p>
+         <p>Version1</p>
       </p>
     </div>
   )
